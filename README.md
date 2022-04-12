@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1b3xyTEjfidflBFfGV_DWRqj-lAOmGqT0/view" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://i.ibb.co/XxtB7cs/Untitled.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Software engineering student at the National Technological University of Cordoba who is exploring Cloud :cloud: While I learn web development and some framework like react I'm very enthusiastic and I'm hungry for knowledge. :wink:
