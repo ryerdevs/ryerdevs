@@ -13,8 +13,6 @@ I am a Software engineering student at the National Technological University of 
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  🐍 and Data analyst with Python 🐍
  
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
- 
  👯** I’m looking to collaborate,****.
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
