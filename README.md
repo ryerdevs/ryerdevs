@@ -4,7 +4,7 @@
 
 **Full-Stack Developer** · Córdoba Capital, Argentina 🇦🇷
 
-Building [**Purely**](https://github.com/ryerdevs/purely) — SaaS for aesthetic clinic scheduling
+Building **Purely** — SaaS for aesthetic clinic scheduling *(private repo)*
 
 <br>
 
@@ -23,22 +23,29 @@ Building [**Purely**](https://github.com/ryerdevs/purely) — SaaS for aesthetic
 
 <br>
 
-<sup>`CORE`ㅤ</sup>
+<sup>`FRONTEND`ㅤ</sup>
 ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=flat&logo=svelte&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=flat&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 <sup>`BACKEND & DATA`ㅤ</sup>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-009688?style=flat&logo=fastapi&logoColor=white)
 
-<sup>`TOOLS`ㅤ</sup>
+<sup>`DEVOPS & TOOLS`ㅤ</sup>
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 <br>
 
@@ -50,11 +57,14 @@ Building [**Purely**](https://github.com/ryerdevs/purely) — SaaS for aesthetic
 
 <br>
 
-<a href="https://github.com/ryerdevs/purely">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ryerdevs&repo=purely&theme=radical&hide_border=true" alt="Purely" />
-</a>
 <a href="https://github.com/ryerdevs/zenith-launcher">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ryerdevs&repo=zenith-launcher&theme=radical&hide_border=true" alt="Zenith Launcher" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ryerdevs&repo=zenith-launcher&theme=tokyonight&hide_border=true" alt="Zenith Launcher" />
+</a>
+<a href="https://github.com/ryerdevs/DropSpace">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ryerdevs&repo=DropSpace&theme=tokyonight&hide_border=true" alt="DropSpace" />
+</a>
+<a href="https://github.com/ryerdevs/AED">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ryerdevs&repo=AED&theme=tokyonight&hide_border=true" alt="AED" />
 </a>
 
 <br>
@@ -65,7 +75,7 @@ Building [**Purely**](https://github.com/ryerdevs/purely) — SaaS for aesthetic
 
 <div align="center">
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryerdevs&show_icons=true&theme=radical&hide_border=true)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryerdevs&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
