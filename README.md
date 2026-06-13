@@ -75,7 +75,7 @@ Building **Purely** — SaaS for aesthetic clinic scheduling *(private repo)*
 
 <div align="center">
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryerdevs&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=1a1a2e&icon_color=1a1a2e)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryerdevs&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e)
 
 </div>
 
