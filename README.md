@@ -1,6 +1,6 @@
 <div align="center">
 
-# *Hola, soy Ricardo*
+# *Hola, soy Ryerdev*
 
 **Full-Stack Developer** · Córdoba Capital, Argentina 🇦🇷
 
@@ -58,13 +58,13 @@ Building **Purely** — SaaS for aesthetic clinic scheduling *(private repo)*
 <br>
 
 <a href="https://github.com/ryerdevs/zenith-launcher">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ryerdevs&repo=zenith-launcher&theme=tokyonight&hide_border=true" alt="Zenith Launcher" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ryerdevs&repo=zenith-launcher&theme=default&hide_border=true&bg_color=ffffff&text_color=1a1a2e&icon_color=FF3E00" alt="Zenith Launcher" />
 </a>
 <a href="https://github.com/ryerdevs/DropSpace">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ryerdevs&repo=DropSpace&theme=tokyonight&hide_border=true" alt="DropSpace" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ryerdevs&repo=DropSpace&theme=default&hide_border=true&bg_color=ffffff&text_color=1a1a2e&icon_color=3FCF8E" alt="DropSpace" />
 </a>
 <a href="https://github.com/ryerdevs/AED">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ryerdevs&repo=AED&theme=tokyonight&hide_border=true" alt="AED" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ryerdevs&repo=AED&theme=default&hide_border=true&bg_color=ffffff&text_color=1a1a2e&icon_color=3178C6" alt="AED" />
 </a>
 
 <br>
@@ -75,7 +75,7 @@ Building **Purely** — SaaS for aesthetic clinic scheduling *(private repo)*
 
 <div align="center">
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryerdevs&show_icons=true&theme=tokyonight&hide_border=true)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryerdevs&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&text_color=1a1a2e&icon_color=FF3E00)
 
 </div>
 
