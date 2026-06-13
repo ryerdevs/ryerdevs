@@ -11,7 +11,7 @@ Building **Purely** — SaaS for aesthetic clinic scheduling *(private repo)*
 ### <sup>LET'S CONNECT!</sup>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ricardo-casamayor)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryerdevs@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ricardocasamayorperez@gmail.com)
 
 <br>
 
