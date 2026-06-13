@@ -1,8 +1,8 @@
 <div align="center">
 
-# *Hola, soy Ryerdev*
+# *Hey there, I'm Ricardo*
 
-**Full-Stack Developer** · Córdoba Capital, Argentina 🇦🇷
+**Full-Stack Developer** · Ciudad Autónoma de Buenos Aires, Argentina 🇦🇷
 
 Building **Purely** — SaaS for aesthetic clinic scheduling *(private repo)*
 
